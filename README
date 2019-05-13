@@ -5,4 +5,5 @@ Dataset from Yelp's 12th annual challenge: https://www.yelp.com/dataset/challeng
 Analysis inclusive of:
 - Multi-level ordinal regression
 - Multi-level linear regression
+- Ordinal regression
 - Linear regression
